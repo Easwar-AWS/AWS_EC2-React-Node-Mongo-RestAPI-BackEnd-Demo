@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb://localhost/mernapp-restapi",
+    "secret": "AWS DEMO SESSION"
+}
